@@ -1,0 +1,28 @@
+/* Write your CSS here */
+
+.welcome-bg-con {
+  background-color: #1e293b;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Bree serif';
+  text-align: center;
+}
+
+.welcome-heading {
+  color: #f0bb03;
+}
+
+.welcome-description {
+  color: #fff;
+  margin: 30px;
+}
+
+button {
+  color: #1e293b;
+  border: 0;
+  border-radius: 8px;
+  padding: 8px;
+  font-weight: 600;
+}
